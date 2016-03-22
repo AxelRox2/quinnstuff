@@ -1,0 +1,17 @@
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/obj/Debug/Assembly-CSharp.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/UnityEngine.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/UnityEditor.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/Mono.Cecil.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/Unity.DataContract.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/alex1/UnityProjects/Quinn-Platformer-Dearborn/Temp/bin/Debug/Mono.Cecil.Mdb.dll

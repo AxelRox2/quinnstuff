@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JumpStuff/PlatformStuff.cs">
+    <Files>
+      <File FileName="Assets/JumpStuff/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/JumpStuff/NavStuff.cs" Line="1" Column="1" />
+      <File FileName="Assets/JumpStuff/HealthThings.cs" Line="1" Column="1" />
+      <File FileName="Assets/JumpStuff/HpText.cs" Line="1" Column="1" />
+      <File FileName="Assets/JumpStuff/MenuSchtuff.cs" Line="1" Column="1" />
+      <File FileName="Assets/JumpStuff/LookAtMouse.cs" Line="1" Column="1" />
+      <File FileName="Assets/JumpStuff/MoveAndJump.cs" Line="1" Column="1" />
+      <File FileName="Assets/JumpStuff/AaaandTheyreGone.cs" Line="1" Column="1" />
+      <File FileName="Assets/JumpStuff/PlatformStuff.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

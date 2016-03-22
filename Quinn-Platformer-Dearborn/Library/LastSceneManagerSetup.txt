@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/JumpStuff/Jump v5.unity
+  isLoaded: 1
+  isActive: 1
